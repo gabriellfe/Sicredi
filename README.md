@@ -1,13 +1,13 @@
 ### Olá pessoal 👋
 <! -- gabriellfe/Sicredi
 
-🔭 Atualmente estou trabalhando em CedroTechnologies alocado no BTGPactual
-🌱 Atualmente estou me especializando em Spring RestFull API por um curso da AlgaWorks
-👯 Estou procurando colaborar em projetos de alto nível em que possa colaborar com minha experiência e conhecimento
-TinnovaDevTest
-Esse projeto ilustra o teste solicitado com java 1.8 e Spring Framework.
+- 🔭 Atualmente estou trabalhando em CedroTechnologies alocado no BTGPactual
+- 🌱 Atualmente estou me especializando em Spring RestFull API por um curso da AlgaWorks
+- 👯 Estou procurando colaborar em projetos de alto nível em que possa colaborar com minha experiência e conhecimento
+- SicrediTestDev
+- Esse projeto ilustra o teste solicitado com java 1.8 e Spring Framework.
 
-###Começando
+### Começando
 Para executar o projeto, será necessário instalar os seguintes programas:
 
 [Java 1.8: Necessário para executar o projeto Java]
