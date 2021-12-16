@@ -14,7 +14,7 @@ Para executar o projeto, será necessário instalar os seguintes programas:
 - [Spring Tool Suite 4-4.12.1]
 - [Lomobok instalado na sua IDE]
 - [Docker instalado ]
-- 
+
 ### Desenvolvimento
 Para iniciar o desenvolvimento, é necessário clonar o projeto do GitHub num diretório de sua preferência:
 
