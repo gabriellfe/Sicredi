@@ -10,10 +10,11 @@
 ### Começando
 Para executar o projeto, será necessário instalar os seguintes programas:
 
-[Java 1.8: Necessário para executar o projeto Java]
-[Spring Tool Suite 4-4.12.1]
-[Lomobok instalado na sua IDE]
-[Docker instalado ]
+- [Java 1.8: Necessário para executar o projeto Java]
+- [Spring Tool Suite 4-4.12.1]
+- [Lomobok instalado na sua IDE]
+- [Docker instalado ]
+- 
 ### Desenvolvimento
 Para iniciar o desenvolvimento, é necessário clonar o projeto do GitHub num diretório de sua preferência:
 
