@@ -21,6 +21,9 @@ Para iniciar o desenvolvimento, é necessário clonar o projeto do GitHub num di
 ### Construção
 Para construir o projeto , basta importar o projeto para sua IDE, de preferencia o Spring Tool Suite Eclipse, fazer um update do projeto do maven e rodar a classe SicrediTestDevApplication.class, irá subir com um banco H2 e subir o RabbitMQ com o comando (docker run -it --rm --name rabbitmq -p 5672:5672 -p 15672:15672 rabbitmq:3.9-management) no cmd com o docker instalado.
 
+### Tarefa Bônus 4 - Versionamento da API
+
+Para versionamento utilizaria um swagger para documentar e utilizaria um URI path para diferenciar as versões.
 
 ### Features
 O projeto pode ser usado como modelo para iniciar o desenvolvimento de um projeto Java usando o Maven. Ele também demonstra de forma prática como configurar e subir um projeto Java já com um servidor do spring.
