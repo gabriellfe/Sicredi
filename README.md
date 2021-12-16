@@ -12,23 +12,21 @@ Para executar o projeto, será necessário instalar os seguintes programas:
 
 - [Java 1.8: Necessário para executar o projeto Java]
 - [Spring Tool Suite 4-4.12.1]
-- [Lomobok instalado na sua IDE]
+- [Lombok instalado na sua IDE]
 - [Docker instalado ]
 
 ### Desenvolvimento
 Para iniciar o desenvolvimento, é necessário clonar o projeto do GitHub num diretório de sua preferência:
 
 ### Construção
-Para construir o projeto , basta importar o projeto para sua IDE, de preferencia o Spring Tool Suite Eclipse, fazer um update do projeto do maven e rodar a classe TinnovaTestDevApplication.class, irá subir com um banco H2 populado, login: sa, com senha vazia, caso ele não leia o arquivo import.sql, colocar o arquivo no diretorio tinnova\target\classes
+Para construir o projeto , basta importar o projeto para sua IDE, de preferencia o Spring Tool Suite Eclipse, fazer um update do projeto do maven e rodar a classe SicrediTestDevApplication.class, irá subir com um banco H2 e subir o RabbitMQ com o comando (docker run -it --rm --name rabbitmq -p 5672:5672 -p 15672:15672 rabbitmq:3.9-management) no cmd com o docker instalado.
 
-### Desafios
-Rodar a main da classe ExerciciosUmAoQuatro.
 
 ### Features
 O projeto pode ser usado como modelo para iniciar o desenvolvimento de um projeto Java usando o Maven. Ele também demonstra de forma prática como configurar e subir um projeto Java já com um servidor do spring.
 
 ### Testes
-Para rodar os testes rodar a clase TinnovaTestDevApplicationTests.class com o JUnit
+Para rodar os testes rodar a clase SicrediTestDevApplicationTests.class com o JUnit
 
 ### Contribuições
 Contribuições são sempre bem-vindas!
